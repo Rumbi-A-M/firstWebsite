@@ -12,7 +12,3 @@ This is my very first website project where I practiced basic HTML and CSS skill
 - HTML5
 - CSS3
 
-## How to View
-1. Clone the repository:
-```bash
-git clone https://github.com/Rumbi-A-M/firstWebsite.git
